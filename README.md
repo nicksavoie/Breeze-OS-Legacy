@@ -1,4 +1,4 @@
-# Breeze-OS-Test
+# Breeze-OS-Legacy
 
 **Operating System Toy Project (2010–2015)**
 
